@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Simple agenda escrita con React
+
+Esta es una simple agenda hecha en clases en el ITLA para dar un ejemplo sobre como hacer su tarea 4 de la asignatura programción WEB.
+
+A continuación podrá leer (en inglés) las indicaciones que se ha escrito de manera predeterminada por el comando **create-react-app**.
+
+Cualquier duda nos puede contactar mediante el correo electrónico rperera[at]itla.edu.do.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
