@@ -6,6 +6,8 @@ A continuación podrá leer (en inglés) las indicaciones que se ha escrito de m
 
 Cualquier duda nos puede contactar mediante el correo electrónico rperera[at]itla.edu.do.
 
+Este código fue creado durante la grabación del siguiente video en vivo: https://youtu.be/I_M2mLHqouI
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
